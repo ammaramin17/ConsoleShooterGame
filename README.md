@@ -20,4 +20,6 @@ To finish this game, your score must reach 200
 
 **You can change these values in the source code if you wish**
 
+**The High Score will be written to cargame.txt**
+
 **WARNING: If you quit the game improperly, your High Score will not be saved**
