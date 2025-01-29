@@ -10,7 +10,11 @@ Press Any Key to Quit
 Avoid cars by moving left or right.
 
 Press 'a' to move left
+
 Press 'd' to move right
-Press 'escape' to exit"
+
+Press 'escape' to exit
+
 To finish this game, your score must reach 200
-WARNING: If you quit the game improperly, your High Score will not be saved
+
+**WARNING: If you quit the game improperly, your High Score will not be saved**
