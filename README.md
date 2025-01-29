@@ -15,6 +15,6 @@ Press 'd' to move right
 
 Press 'escape' to exit
 
-To finish this game, your score must reach 200
+To finish this game, your score must reach 200 (or the value you choose)
 
 **WARNING: If you quit the game improperly, your High Score will not be saved**
